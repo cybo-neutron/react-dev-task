@@ -2,7 +2,7 @@ import Layout from "./components/Layout";
 
 function App() {
   return (
-    <div>
+    <div className="min-h-screen bg-blue-100">
       <Layout />
     </div>
   );
